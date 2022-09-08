@@ -1,0 +1,8 @@
+- 👋 Hi, I’m @ddiama
+- 👀 I’m interested in fluid mechanics, hybrid-electric aircraft propulsion, machine learning and multi-disciplinary optimisation. 
+- 🌱 I’m currently learning fundamentals of machine learning. 
+- 💞️ I’m looking to collaborate on small projects developing deep learning models to get some experience. 
+- 📫 How to reach me:
+    - Personal website: https://dimitra-diama.com/
+    - Email: diamantidoude@gmail.com
+    - Twitter: @dediamant95
