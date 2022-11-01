@@ -4,5 +4,5 @@
 - 💞️ I’m looking to collaborate on small projects developing deep learning models to get some experience. 
 - 📫 How to reach me:
     - Personal website: https://dimitra-diama.com/
-    - Email: diamantidoude@gmail.com
+    - Email: diamantidou.dimitra.eirini@gmail.com
     - Twitter: @dediamant95
