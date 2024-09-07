@@ -4,4 +4,3 @@
 - 📫 How to reach me:
     - Personal website: https://dimitra-diama.com/
     - Email: ddiamant1295@gmail.com
-    - Twitter: @dediamant95
